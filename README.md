@@ -1,4 +1,4 @@
-# Debian-based Update Script
+# Debian-based Desktop Update Script
 
 ## Features
 
